@@ -21,6 +21,12 @@ body {
     text-decoration: none;
     color: rgb(255, 255, 255);
   }
+  a:hover{
+    color: gold;
+  }
+  a:active{
+    color: blue;
+  }
 }
 .quote {
   color: rgb(0, 0, 0);
